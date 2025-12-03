@@ -6,5 +6,5 @@ This repository contains all projects developed using Excel, including financial
 - [Comm Aviation – Over Exposure Report (Américas)](Comm%20Aviation_Over%20Exposure%20Report/).
   Credit risk exposure analysis for the Commercial Aviation portfolio as of 30th September 2025.  
 
-- [Wealthfront Projects](Wealthfront/)
+- [Wealthfront's Corp, IPO, launch date: December 8th 2025(](Wealthfront/)
   Analysis of Wealthfront's Corp IPO, including financial models and supporting PDF documents.
