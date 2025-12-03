@@ -4,7 +4,8 @@ Este proyecto contiene el análisis completo de Wealthfront Corp previo a su IPO
 
 ## Contenido de la carpeta
 
-- **Wealthfront Corp.xlsx**  
+- **Wealthfront Corp.xlsx**
+
   Contiene todos los cálculos basados en los estados financieros. La hoja de cálculo incluye las siguientes secciones:
     1. Análisis de la industria
     2. Análisis de la empresa y estrategia
