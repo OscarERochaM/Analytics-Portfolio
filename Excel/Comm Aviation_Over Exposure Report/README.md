@@ -31,4 +31,8 @@ This Excel workbook:
 
 ## License
 
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+This project is licensed under
+[Licencia de Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+![Licencia CC BY-NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
