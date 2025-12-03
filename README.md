@@ -19,7 +19,7 @@ Below you will find direct links to all projects, organized by tool.
 - [Python](./Python)
 - [Excel](./Excel)
 - [Tableau](./Tableau)
-- [Power BI](./PowerBI)
+- [Power BI](./Power%20BI)
 - [SQL](./SQL)
 
 ## Contact
