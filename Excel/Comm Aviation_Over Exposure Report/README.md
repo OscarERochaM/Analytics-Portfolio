@@ -1,10 +1,11 @@
 # Comm Aviation – Over Exposure Report (Américas)
 
 This project contains the **credit risk exposure analysis** for the Commercial Aviation portfolio as of 30th September 2025.
+Dowload the file for visualization and understanding.
 
 ## Project Files
 
-- [Download Excel file](./Comm_Aviation_Over_Exposure_30th_September_2025_Americas.xlsx)
+- [Comm Aviation Over Exposure Report_30th September 2025 Americas](./Comm_Aviation_Over_Exposure_30th_September_2025_Americas.xlsx)
 
 ## Project Description
 
