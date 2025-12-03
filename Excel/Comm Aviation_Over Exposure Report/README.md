@@ -4,7 +4,7 @@ This project contains the **credit risk exposure analysis** for the Commercial A
 
 ## Project Files
 
-- **Excel File:** ## [Download Excel file](./Comm_Aviation_Over_Exposure_30th_September_2025_Americas.xlsx)
+- **Excel File:** [Download Excel file](./Comm_Aviation_Over_Exposure_30th_September_2025_Americas.xlsx)
 
 ## Project Description
 
