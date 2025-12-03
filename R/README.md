@@ -1,5 +1,5 @@
 # R Projects
-This folder contains beginner-level projects and exercises in R, including data analysis, visualization, and basic statistical modeling.
+This folder contains projects and exercises in R, including data analysis, visualization, and basic statistical modeling.
 
 ## Projects
 - [Tesina](Tesina/) (in Spanish).
