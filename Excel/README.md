@@ -7,4 +7,4 @@ This repository contains all projects developed using Excel, including financial
   Credit risk exposure analysis for the Commercial Aviation portfolio as of 30th September 2025.  
 
 - [Wealthfront Projects](Wealthfront/)
-  Analysis of Wealthfront Corp, including financial models and supporting PDF documents.
+  Analysis of Wealthfront's Corp IPO, including financial models and supporting PDF documents.
