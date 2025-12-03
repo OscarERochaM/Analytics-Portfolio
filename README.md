@@ -11,12 +11,9 @@ This portfolio reflects my learning process in R, Python, SQL, Tableau, and Powe
 Currently, I am expanding my knowledge through the 365 Data Science and 365 Data Finance learning paths, while also pursuing a Master’s in Risk and Finance.
 My goal is to integrate quantitative analysis, modern analytics tools, and financial understanding to solve practical and strategic challenges.
 
-
 # 📁 Portfolio Structure
 
 Below you will find direct links to all projects, organized by tool.
-
-# 📂 Projects by Technology
 
 - [R](./R)
 - [Python](./Python)
@@ -24,7 +21,6 @@ Below you will find direct links to all projects, organized by tool.
 - [Tableau](./Tableau)
 - [Power BI](./PowerBI)
 - [Excel](./Excel)
-
 
 ## Contact
 
