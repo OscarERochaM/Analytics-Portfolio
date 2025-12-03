@@ -1,14 +1,31 @@
-# R Portfolio
+# 📊 Analytics Portfolio
 
-This repository contains all projects developed using R.
+Welcome to my Analytics Portfolio, a centralized hub for all my projects developed across R, Python, SQL, Tableau, Power BI, Excel, and other analytical tools.
+This repository highlights hands-on work in data analysis, financial modeling, automation, and visualization, reflecting my ongoing technical growth.
 
-## Projects
+## 🔎 About Me
 
-- [**Tesina**](./Tesina/) *(in Spanish)*  
-  Final undergraduate research project.
-- [**Mathematics and Probability for Economics**](./Mathematics%20and%20Probability%20for%20Economics/)  
-  Homework assignments, applied projects, and tests for the course.
-  
+I am continuously developing my technical and analytical skills across multiple tools and domains.
+This portfolio reflects my learning process in R, Python, SQL, Tableau, and Power BI, with projects focused on applying data to real-world problems.
+
+Currently, I am expanding my knowledge through the 365 Data Science and 365 Data Finance learning paths, while also pursuing a Master’s in Risk and Finance.
+My goal is to integrate quantitative analysis, modern analytics tools, and financial understanding to solve practical and strategic challenges.
+
+
+# 📁 Portfolio Structure
+
+Below you will find direct links to all projects, organized by tool.
+
+# 📂 Projects by Technology
+
+- [R](./R)
+- [Python](./Python)
+- [SQL](./SQL)
+- [Tableau](./Tableau)
+- [Power BI](./PowerBI)
+- [Excel](./Excel)
+
+
 ## Contact
 
 - oscar_rocha_pro_23@hotmail.com
