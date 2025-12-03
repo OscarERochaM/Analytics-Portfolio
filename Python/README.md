@@ -1,2 +1,2 @@
-## Python Portfolio
-This repository contains all projects developed using Python.
+# Python Projects
+This folder contains fundamental Python scripts for data manipulation, automation, and basic analysis exercises.
