@@ -7,4 +7,4 @@ This repository contains all projects developed using Excel, including financial
   Credit risk exposure analysis for the Commercial Aviation portfolio as of 30th September 2025.  
 
 - [Wealthfront's Corp, IPO, launch date: December 8th 2025](Excel/Wealthfront%20Corp/)
-  Analysis of Wealthfront's Corp IPO, including financial models and supporting PDF documents.
+  Analysis of Wealthfront's Corp IPO.
