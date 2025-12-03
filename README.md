@@ -17,10 +17,10 @@ Below you will find direct links to all projects, organized by tool.
 
 - [R](./R)
 - [Python](./Python)
-- [SQL](./SQL)
+- [Excel](./Excel)
 - [Tableau](./Tableau)
 - [Power BI](./PowerBI)
-- [Excel](./Excel)
+- [SQL](./SQL)
 
 ## Contact
 
