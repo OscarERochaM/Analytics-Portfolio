@@ -1,5 +1,5 @@
-## R Portfolio
-This repository contains all projects developed using R.
+# R Projects
+This folder contains beginner-level projects and exercises in R, including data analysis, visualization, and basic statistical modeling.
 
 ## Projects
 - [Tesina](Tesina/) (in Spanish).
