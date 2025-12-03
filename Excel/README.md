@@ -1,4 +1,4 @@
-# Excel Portfolio
+## Excel Portfolio
 This repository contains all projects developed using Excel, including financial analysis, credit risk reports, dashboards, and applied business cases.
 
 ## Projects
