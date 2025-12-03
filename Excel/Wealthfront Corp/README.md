@@ -1,6 +1,7 @@
 # Wealthfront Corp – IPO, lanzamiento: 8 de diciembre de 2025 - Proyecto final Finanzas Corporativas
 
 Este proyecto contiene el análisis completo de Wealthfront Corp previo a su IPO, incluyendo cálculos financieros y explicaciones teóricas.
+Descargar cada archivo en los links a continuación, en su formato correspondiente, para la visualización de los mismos.
 
 ## Contenido de la carpeta
 
