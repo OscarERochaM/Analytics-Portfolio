@@ -9,12 +9,12 @@ Para la correcta visualización del proyecto, se recomienda descargar los archiv
 - [**Cardinal Infrastructure Group.xlsx**](Cardinal%20Infrastructure%20Corp%20IPO.xlsx)  
   Archivo que contiene todos los cálculos financieros basados en la información histórica de la empresa y en métricas de comparables del sector. El archivo incluye, entre otros, los siguientes apartados:
 
-## 1. Análisis financiero
-## 2. Análisis de comparabilidad
-## 3. Análisis de múltiplos por empresas comparables
-## 4. WACC
-## 5. Supuestos DCF
-## 6. Valoración por DCF:
+# 1. Análisis financiero
+# 2. Análisis de comparabilidad
+# 3. Análisis de múltiplos por empresas comparables
+# 4. WACC
+# 5. Supuestos DCF
+# 6. Valoración por DCF:
   Escenarios:
     - Pesimista.
     - Base.
