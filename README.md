@@ -26,3 +26,6 @@ Below you will find direct links to all projects, organized by tool.
 
 - oscar_rocha_pro_23@hotmail.com
 - https://www.linkedin.com/in/%C3%B3scar-rocha-152a23160/
+
+## Note
+All IPO valuations and financial model validations are documented in the Excel portfolio.
