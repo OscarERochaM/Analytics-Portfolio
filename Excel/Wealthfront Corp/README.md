@@ -1,25 +1,26 @@
-# Wealthfront Corp – IPO, lanzamiento: 8 de diciembre de 2025 - Proyecto final Finanzas Corporativas
+# Cardinal Infrastructure Group – IPO - Proyecto final Finanzas Corporativas
 
-Este proyecto contiene el análisis completo de Wealthfront Corp previo a su IPO, incluyendo cálculos financieros y explicaciones teóricas.
-Descargar cada archivo en los links a continuación, en su formato correspondiente, para la visualización de los mismos.
+Este proyecto contiene el análisis completo de Cardinal Infrastructure Group Inc. previo a su oferta pública inicial (IPO), incluyendo los cálculos financieros y la explicación de los supuestos utilizados en la valoración.
+
+Para la correcta visualización del proyecto, se recomienda descargar los archivos en sus formatos originales desde los enlaces a continuación.
 
 ## Contenido de la carpeta
 
-- [**Wealthfront Corp.xlsx**](Wealthfront%20Corp.xlsx) 
-Contiene todos los cálculos basados en los estados financieros. La hoja de cálculo incluye las siguientes secciones:
+- [**Cardinal Infrastructure Group.xlsx**](Cardinal%20Infrastructure%20Group.xlsx)  
+  Archivo que contiene todos los cálculos financieros basados en la información histórica de la empresa y en métricas de comparables del sector. El archivo incluye, entre otros, los siguientes apartados:
 
-1. Análisis de la industria
-2. Análisis de la empresa y estrategia
-3. Análisis financiero
-4. Valoración por múltiplos
-5. Estimación del Cost of Equity (WACC)
-6. Valoración por DCF
-7. Conclusiones
+  1. Análisis financiero
+  2. Análisis de comparabilidad
+  3. Análisis de múltiplos por empresas comparables
+  4. WACC
+  5. Supuestos DCF
+  6. Valoración por DCF (escenarios: pesimista, base y optimista)
 
-- [**Wealthfront Corp.pdf**](Wealthfront%20Corp.pdf)
-  Explicación teórica de todo el análisis, incluyendo el contexto de la industria, la estrategia de la empresa y la metodología utilizada para la valoración financiera.
+- [**Cardinal Infrastructure Group.pdf**](Cardinal%20Infrastructure%20Group.pdf)  
+  Documento explicativo del análisis realizado, donde se desarrollan el contexto de la industria, los supuestos del modelo y la interpretación de los resultados obtenidos.
 
 ## Observaciones
-- Todo el proyecto está redactado en español.  
-- La información financiera se basa en datos públicos del S-1 filing de Wealthfront Corp y otras fuentes.  
-- Se recomienda revisar primero el PDF para entender la teoría antes de analizar los cálculos en Excel.
+
+- El proyecto está redactado íntegramente en español.  
+- La información financiera utilizada proviene de fuentes públicas, principalmente del **S-1 filing** de la compañía y reportes de mercado.  
+- Se recomienda revisar primero el archivo en PDF para comprender el marco teórico y los supuestos, y luego analizar los cálculos en el archivo de Excel.
