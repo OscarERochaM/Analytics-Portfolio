@@ -6,5 +6,5 @@ This repository contains all projects developed using Excel, including financial
 - [Comm Aviation – Over Exposure Report (Américas)](Comm%20Aviation_Over%20Exposure%20Report/).
   Credit risk exposure analysis for the Commercial Aviation portfolio as of 30th September 2025.  
 
-- [Wealthfront's Corp, IPO, launch date: December 8th 2025](Wealthfront%20Corp/)
-  Analysis of Wealthfront's Corp IPO.
+- [Cardinal's Infraestructure Group Inc, IPO, launch date: December 12th 2025](Wealthfront%20Corp/)
+  Analysis of Cardinal's Infraestructure Group Inc IPO.
