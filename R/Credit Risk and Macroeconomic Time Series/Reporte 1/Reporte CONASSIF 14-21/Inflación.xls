@@ -1,0 +1,339 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"> 
+	<head> 
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> 
+		<meta name="ProgId" content="Excel.Sheet"> 
+		<meta name="Generator" content="Microsoft Excel 10"> 
+		<link rel="File-List" href="Libro1_archivos/filelist.xml"> 
+			<link rel="Edit-Time-Data" href="Libro1_archivos/editdata.mso"> 
+				<link rel="OLE-Object-Data" href="Libro1_archivos/oledata.mso"> 
+					<!--[If gte mso 9]><xml> 
+ <o:DocumentProperties> 
+  <o:Author></o:Author> 
+  <o:LastAuthor></o:LastAuthor> 
+  <o:Created>2026-2-18T00:00:00Z</o:Created> 
+  <o:LastSaved>2026-2-18T00:00:00Z</o:LastSaved> 
+  <o:Company>BCCR</o:Company> 
+  <o:Version>10.4219</o:Version> 
+ </o:DocumentProperties> 
+ <o:OfficeDocumentSettings> 
+  <o:DownloadComponents/> 
+ </o:OfficeDocumentSettings> 
+</xml><![endif]--> 
+					<style> 
+						<!--table 
+	{mso-displayed-decimal-separator:"\,"; 
+	mso-displayed-thousand-separator:"\.";} 
+@page 
+	{margin:.98in .79in .98in .79in; 
+	mso-header-margin:0in; 
+	mso-footer-margin:0in;} 
+            tr 
+	{mso-height-source:auto;} 
+            col 
+	{mso-width-source:auto;} 
+            br 
+	{mso-data-placement:same-cell;} 
+            .style0 
+	{mso-number-format:General; 
+	text-align:general; 
+	vertical-align:bottom; 
+	white-space:nowrap; 
+	mso-rotate:0; 
+	mso-background-source:auto; 
+	mso-pattern:auto; 
+	color:windowtext; 
+	font-size:10.0pt; 
+	font-weight:400; 
+	font-style:normal; 
+	text-decoration:none; 
+	font-family:Arial; 
+	mso-generic-font-family:auto; 
+	mso-font-charset:0; 
+	border:none; 
+	mso-protection:locked visible; 
+	mso-style-name:Normal; 
+	mso-style-id:0;} 
+            td 
+	{mso-style-parent:style0; 
+	padding-top:1px; 
+	padding-right:1px; 
+	padding-left:1px; 
+	mso-ignore:padding; 
+	color:windowtext; 
+	font-size:10.0pt; 
+	font-weight:400; 
+	font-style:normal; 
+	text-decoration:none; 
+	font-family:Arial; 
+	mso-generic-font-family:auto; 
+	mso-font-charset:0; 
+	mso-number-format:General; 
+	text-align:general; 
+	vertical-align:bottom; 
+	border:none; 
+	mso-background-source:auto; 
+	mso-pattern:auto; 
+	mso-protection:locked visible; 
+	white-space:nowrap; 
+	mso-rotate:0;} 
+	.numero 
+	{mso-style-parent:style0; 
+	mso-number-format:"\#\,\#\#0\.00";} 
+	.texto 
+	{mso-style-parent:style0; 
+	mso-number-format:"\@";} 
+--></style> 
+		<!--[If gte mso 9]><xml> 
+ <x:ExcelWorkbook> 
+  <x:ExcelWorksheets> 
+   <x:ExcelWorksheet> 
+    <x:Name>Hoja1</x:Name> 
+    <x:WorksheetOptions> 
+     <x:Selected/> 
+     <x:ProtectContents>False</x:ProtectContents> 
+     <x:ProtectObjects>False</x:ProtectObjects> 
+     <x:ProtectScenarios>False</x:ProtectScenarios> 
+    </x:WorksheetOptions> 
+    <x:QueryTable> 
+     <x:RefreshOnFileOpen/> 
+     <x:Name>DataExported</x:Name> 
+     <x:AutoFormatFont/> 
+     <x:AutoFormatPattern/> 
+     <x:QuerySource> 
+      <x:QueryType>Web</x:QueryType> 
+      <x:EnableRedirections/> 
+      <x:RefreshedInXl9/> 
+      <x:EntirePage/> 
+      <x:URLString 
+       HRef='https://gee.bccr.fi.cr/indicadoreseconomicos/cuadros/frmvercatcuadro.aspx?CodCuadro=2732&Idioma=1&FecInicial=2024/01/01&FecFinal=2026/01/31&Filtro=0&Exportar=True&Excel=True'/> 
+      <x:VersionLastEdit>1</x:VersionLastEdit> 
+      <x:VersionLastRefresh>1</x:VersionLastRefresh> 
+     </x:QuerySource> 
+    </x:QueryTable> 
+   </x:ExcelWorksheet> 
+   <x:ExcelWorksheet> 
+    <x:Name>Hoja2</x:Name> 
+    <x:WorksheetOptions> 
+     <x:ProtectContents>False</x:ProtectContents> 
+     <x:ProtectObjects>False</x:ProtectObjects> 
+     <x:ProtectScenarios>False</x:ProtectScenarios> 
+    </x:WorksheetOptions> 
+   </x:ExcelWorksheet> 
+   <x:ExcelWorksheet> 
+    <x:Name>Hoja3</x:Name> 
+    <x:WorksheetOptions> 
+     <x:ProtectContents>False</x:ProtectContents> 
+     <x:ProtectObjects>False</x:ProtectObjects> 
+     <x:ProtectScenarios>False</x:ProtectScenarios> 
+    </x:WorksheetOptions> 
+   </x:ExcelWorksheet> 
+  </x:ExcelWorksheets> 
+  <x:ProtectStructure>False</x:ProtectStructure> 
+  <x:ProtectWindows>False</x:ProtectWindows> 
+ </x:ExcelWorkbook> 
+ <x:ExcelName> 
+  <x:Name>DataExported</x:Name> 
+  <x:SheetIndex>1</x:SheetIndex> 
+  <x:Formula>=Hoja1!$A$1:$E$31</x:Formula> 
+ </x:ExcelName> 
+</xml><![endif]--> 
+	</head> 
+	<body link="blue" vlink="purple"> 
+<form id="Form1" method="post" runat="server">
+    <table id="Table9" cellPadding="0" cellSpacing="0" border="0">
+        <TR><TD colSpan="10" class=texto><a name="DataExported">&Iacute;ndice de precios al consumidor (IPC)</a></TD></TR>
+        <TR><TD colSpan="10" class=texto>Diciembre 2020=100</TD></TR>
+        <TR><TD colSpan="10" class=texto>Niveles y variaciones</TD></TR>
+        <TR><TD>&nbsp;</TD></TR>
+        <tr>
+            <td rowspan="1" colspan=1>&nbsp;</td>
+            <td class=texto rowspan="1" colspan="1">
+                Nivel
+            </td>
+            <td class=texto rowspan="1" colspan="1">
+                Variaci&oacute;n mensual (%)
+            </td>
+            <td class=texto rowspan="1" colspan="1">
+                Variaci&oacute;n interanual (%)
+            </td>
+            <td class=texto rowspan="1" colspan="1">
+                Variaci&oacute;n acumulada (%)/n3
+            </td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2024</td>
+            <td class=numero align=right>109,52906635</td>
+            <td class=numero align=right>0,05509727</td>
+            <td class=numero align=right>-1,86863398</td>
+            <td class=numero align=right>0,05509726</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2024</td>
+            <td class=numero align=right>109,41111460</td>
+            <td class=numero align=right>-0,10768991</td>
+            <td class=numero align=right>-1,13140602</td>
+            <td class=numero align=right>-0,05265197</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2024</td>
+            <td class=numero align=right>109,10052736</td>
+            <td class=numero align=right>-0,28387174</td>
+            <td class=numero align=right>-1,18631484</td>
+            <td class=numero align=right>-0,33637426</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2024</td>
+            <td class=numero align=right>109,45778192</td>
+            <td class=numero align=right>0,32745448</td>
+            <td class=numero align=right>-0,52081297</td>
+            <td class=numero align=right>-0,01002126</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2024</td>
+            <td class=numero align=right>109,54703269</td>
+            <td class=numero align=right>0,08153899</td>
+            <td class=numero align=right>-0,33476582</td>
+            <td class=numero align=right>0,07150957</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2024</td>
+            <td class=numero align=right>109,70548476</td>
+            <td class=numero align=right>0,14464296</td>
+            <td class=numero align=right>-0,03375699</td>
+            <td class=numero align=right>0,21625596</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2024</td>
+            <td class=numero align=right>109,57204643</td>
+            <td class=numero align=right>-0,12163323</td>
+            <td class=numero align=right>0,03187455</td>
+            <td class=numero align=right>0,09435969</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2024</td>
+            <td class=numero align=right>109,69819957</td>
+            <td class=numero align=right>0,11513259</td>
+            <td class=numero align=right>0,31250425</td>
+            <td class=numero align=right>0,20960092</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2024</td>
+            <td class=numero align=right>109,33301018</td>
+            <td class=numero align=right>-0,33290372</td>
+            <td class=numero align=right>-0,13585182</td>
+            <td class=numero align=right>-0,12400057</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2024</td>
+            <td class=numero align=right>108,84745042</td>
+            <td class=numero align=right>-0,44411085</td>
+            <td class=numero align=right>-0,78639460</td>
+            <td class=numero align=right>-0,56756072</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2024</td>
+            <td class=numero align=right>109,35763409</td>
+            <td class=numero align=right>0,46871440</td>
+            <td class=numero align=right>-0,09182255</td>
+            <td class=numero align=right>-0,10150656</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2024</td>
+            <td class=numero align=right>110,39017167</td>
+            <td class=numero align=right>0,94418427</td>
+            <td class=numero align=right>0,84171930</td>
+            <td class=numero align=right>0,84171930</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2025</td>
+            <td class=numero align=right>110,78919062</td>
+            <td class=numero align=right>0,36146239</td>
+            <td class=numero align=right>1,15049303</td>
+            <td class=numero align=right>0,36146239</td>
+        </tr>
+        <tr>
+            <td class=texto>Febrero/2025</td>
+            <td class=numero align=right>110,77496945</td>
+            <td class=numero align=right>-0,01283624</td>
+            <td class=numero align=right>1,24654141</td>
+            <td class=numero align=right>0,34857975</td>
+        </tr>
+        <tr>
+            <td class=texto>Marzo/2025</td>
+            <td class=numero align=right>110,42346320</td>
+            <td class=numero align=right>-0,31731559</td>
+            <td class=numero align=right>1,21258428</td>
+            <td class=numero align=right>0,03015806</td>
+        </tr>
+        <tr>
+            <td class=texto>Abril/2025</td>
+            <td class=numero align=right>109,86484411</td>
+            <td class=numero align=right>-0,50588804</td>
+            <td class=numero align=right>0,37188968</td>
+            <td class=numero align=right>-0,47588254</td>
+        </tr>
+        <tr>
+            <td class=texto>Mayo/2025</td>
+            <td class=numero align=right>109,42048380</td>
+            <td class=numero align=right>-0,40446088</td>
+            <td class=numero align=right>-0,11552014</td>
+            <td class=numero align=right>-0,87841866</td>
+        </tr>
+        <tr>
+            <td class=texto>Junio/2025</td>
+            <td class=numero align=right>109,46943792</td>
+            <td class=numero align=right>0,04473945</td>
+            <td class=numero align=right>-0,21516412</td>
+            <td class=numero align=right>-0,83407221</td>
+        </tr>
+        <tr>
+            <td class=texto>Julio/2025</td>
+            <td class=numero align=right>108,90566338</td>
+            <td class=numero align=right>-0,51500633</td>
+            <td class=numero align=right>-0,60816885</td>
+            <td class=numero align=right>-1,34478302</td>
+        </tr>
+        <tr>
+            <td class=texto>Agosto/2025</td>
+            <td class=numero align=right>108,67161103</td>
+            <td class=numero align=right>-0,21491293</td>
+            <td class=numero align=right>-0,93582989</td>
+            <td class=numero align=right>-1,55680583</td>
+        </tr>
+        <tr>
+            <td class=texto>Septiembre/2025</td>
+            <td class=numero align=right>108,23614574</td>
+            <td class=numero align=right>-0,40071670</td>
+            <td class=numero align=right>-1,00323264</td>
+            <td class=numero align=right>-1,95128415</td>
+        </tr>
+        <tr>
+            <td class=texto>Octubre/2025</td>
+            <td class=numero align=right>108,43639759</td>
+            <td class=numero align=right>0,18501384</td>
+            <td class=numero align=right>-0,37764121</td>
+            <td class=numero align=right>-1,76988046</td>
+        </tr>
+        <tr>
+            <td class=texto>Noviembre/2025</td>
+            <td class=numero align=right>108,94650160</td>
+            <td class=numero align=right>0,47041770</td>
+            <td class=numero align=right>-0,37595225</td>
+            <td class=numero align=right>-1,30778859</td>
+        </tr>
+        <tr>
+            <td class=texto>Diciembre/2025</td>
+            <td class=numero align=right>109,03593010</td>
+            <td class=numero align=right>0,08208478</td>
+            <td class=numero align=right>-1,22677730</td>
+            <td class=numero align=right>-1,22677730</td>
+        </tr>
+        <tr>
+            <td class=texto>Enero/2026</td>
+            <td class=numero align=right>107,98540252</td>
+            <td class=numero align=right>-0,96346918</td>
+            <td class=numero align=right>-2,53074157</td>
+            <td class=numero align=right>-0,96346918</td>
+        </tr>
+    </table>
+</HTML>

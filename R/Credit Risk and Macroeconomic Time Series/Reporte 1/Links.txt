@@ -1,0 +1,9 @@
+Fuentes
+https://www.sugef.fi.cr/informacion_relevante/boletin_trimestral/Boletin%20Sugef%20Abril%202025.pdf
+https://www.sugef.fi.cr/reportes/IndicadoresFinancieros/documentos/Descripcion_Indicadores.pdf
+
+datos
+https://www.sugef.fi.cr/rsw_reportes/reporteCrediticioDespues - Cartera en mora
+https://gee.bccr.fi.cr/indicadoreseconomicos/cuadros/frmvercatcuadro.aspx?idioma=1&codcuadro=%20779 - TPM
+https://gee.bccr.fi.cr/indicadoreseconomicos/cuadros/frmvercatcuadro.aspx?idioma=1&codcuadro=%202732 - Inflación
+https://sdd.bccr.fi.cr/es/IndicadoresEconomicos/Inicio/Contenedor/125?Cuadro=491 - Tipo de cambio
